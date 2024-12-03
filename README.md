@@ -50,6 +50,8 @@
 
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)  
 
+---
+
 ### 📫 Connect With Me  
 - **Portfolio:** [My Portfolio](https://joanabrit.github.io/portfolio/)  
 - **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/joana-brito216/)  
