@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Joana! 
 
-## A positive and energetic person who gets excited by learning new things, problem solving and create a great user experience. 🌟 
+## Positive, energetic, and excited for learning new things, solving problems and creating great user experiences. 🌟 
 
-![IMG_2365](https://github.com/user-attachments/assets/c0c26817-4edf-426c-97d5-7c89c748c98d)
+![IMG_2365-crop](https://github.com/user-attachments/assets/7185d1fd-1dda-4a58-8bd4-43b8fcce645d)
 
 ---
 
