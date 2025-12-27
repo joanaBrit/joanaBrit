@@ -1,33 +1,36 @@
-# 👋 Hi, I'm Joana! 
+# Hi, I'm Joana! 
 
-## Positive, energetic, and excited for learning new things, solving problems and creating great user experiences. 🌟 
+## Positive, energetic, and excited for learning new things, solving problems, and creating great user experiences. ✨
 
 ![IMG_2365-crop](https://github.com/user-attachments/assets/7185d1fd-1dda-4a58-8bd4-43b8fcce645d)
 
 ---
 
 ### About Me
-- **Active Learner:**
+**Current Contributions:**
 
-🌟 Recently completed a **MOOC Sprint in `Python` and `JavaScript`** with Code First Girls.
+🌟 Currently contributing to Open-Source projects with the Women Coding Community, where I volunteer and take on challenging tasks.
+  
+**Active Learner:**
 
-🌟 Currently attending an **8 week in `Python & SQL` course** with Code First Girls.
+🌟 Completed a **MOOC Sprint in `Python` and `JavaScript`** and an **8 week in `Python & SQL` course** with Code First Girls (2024).
 
-🌟 Contributing to **Open-Source projects** with the Women Coding Community.
+🌟 Participated in the **Cajigo 100 Women in Tech Accelerator Programme** (2024-2025).
 
-🌟 Participating in the **Cajigo 100 Women in Tech Accelerator Programme**.
+**Professional Growth:**
+- Hired as a Junior Python Developer in February 2025, now working as a Full-Stack Developer.
+- Redesigned the Anvil AI website in Figma and currently implementing the design.
+- Learning PostgreSQL, Copilot Studio agents, and Power Automate to expand my technical skill set.
 
-🌟 Regular attendee of tech events to learn from others' experiences and advice. 
+**How I challenge myself:**
 
--  **How I challenge myself:**
+- I push myself outside my comfort zone to grow!  
 
-🚀 I push myself outside my comfort zone to grow!  
+- Participated in my **first Hackathon** with Huddlehive, 2024.
 
-💡 Participated in my **first Hackathon** with Huddlehive, 2024.
+- Became a **speaker at the Halfstack Event 2024** with Women Coding Community, followed by speaking at online events.
 
-💬 Became a **speaker at the Halfstack Event 2024** with Women Coding Community, followed by speaking at online events.
-
--  **Goals:**
+**Goals:**
 
 🎯 I want to combine **tech and fashion** in the future, but for now, my focus is on learning and becoming a strong **Full-Stack Engineer**.
 
@@ -45,10 +48,13 @@
 - **UI Libraries:**
  
 ![Material UI](https://img.shields.io/badge/-Material%20UI-007FFF?logo=mui&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 
 - **Testing:**
 
-![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)  
+![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white) 
+![Playwright](https://img.shields.io/badge/-Playwright-000000?logo=playwright&logoColor=white)
+
 
 ---
 
